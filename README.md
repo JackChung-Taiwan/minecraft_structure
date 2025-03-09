@@ -26,3 +26,4 @@ Build a Tower, Pyramid, Stairs, and Bridge using Minecraft MakeCode
 製作一個空心的金字塔 Build a hollow Pyramid
 ![004](https://github.com/user-attachments/assets/541e805b-66cb-46a9-bc18-b4779368c857)
 
+![螢幕擷取畫面 2025-03-09 125845](https://github.com/user-attachments/assets/a43e5a95-3768-49f4-b457-e288f623a769)
