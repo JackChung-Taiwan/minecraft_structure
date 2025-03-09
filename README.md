@@ -8,6 +8,7 @@ Please adhere to the MIT License when using this extension in Minecraft: Educati
 
 Build a Tower, Pyramid, Stairs, and Bridge using Minecraft MakeCode
 
+注意事項: 若分享程式,需對方也要有此擴充 | If you share the MakeCode pyramid program, the other party must also have this extension.
 
 1.Copy https://makecode.com/_LCv5X1VcwFrx
 
