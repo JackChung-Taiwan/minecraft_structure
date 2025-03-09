@@ -30,5 +30,7 @@ Construisez une tour, une pyramide, des escaliers et un pont en utilisant Minecr
 ![0003](https://github.com/user-attachments/assets/cb947959-ba31-4890-b3e6-70e874ea8545)
 
 
+![02](https://github.com/user-attachments/assets/40563cc3-c272-4d2e-aa0c-ac92181b305b)
+
 
 ![03](https://github.com/user-attachments/assets/747c6046-4284-4e33-9f4d-1dbf4af7024d)
