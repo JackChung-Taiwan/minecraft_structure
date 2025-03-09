@@ -1,6 +1,7 @@
 2025.3.9 minecraft_structure
 本「建造結構」由台灣資訊教育發展協會教師 Jack Chung 製作，相關的 JavaScript 檔案已公開分享。
 請依照 MIT License 使用規範，於 Minecraft 教育版程式教學中運用此擴充應用。
+
 This "Building Structures" extension was created by Jack Chung, a teacher at the Taiwan Information Education Development Association. 
 The related JavaScript files have been publicly shared. Please adhere to the MIT License when using this extension in Minecraft: Education Edition programming lessons.
 
