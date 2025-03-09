@@ -34,3 +34,7 @@ Construisez une tour, une pyramide, des escaliers et un pont en utilisant Minecr
 
 
 ![03](https://github.com/user-attachments/assets/747c6046-4284-4e33-9f4d-1dbf4af7024d)
+
+製作一個空心的金字塔 Build a hollow Pyramid
+![004](https://github.com/user-attachments/assets/541e805b-66cb-46a9-bc18-b4779368c857)
+
