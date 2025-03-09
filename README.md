@@ -1,9 +1,8 @@
 2025.3.9 minecraft_structure
-本「建造結構」由台灣資訊教育發展協會教師 Jack Chung 製作，相關的 JavaScript 檔案已公開分享。
-請依照 MIT License 使用規範，於 Minecraft 教育版程式教學中運用此擴充應用。
+本「建造結構」由台灣資訊教育發展協會教師 Jack Chung 製作，請依照 MIT License 使用規範，於 Minecraft 教育版程式教學中運用此擴充應用。
 
 This "Building Structures" extension was created by Jack Chung, a teacher at the Taiwan Information Education Development Association. 
-The related JavaScript files have been publicly shared. Please adhere to the MIT License when using this extension in Minecraft: Education Edition programming lessons.
+Please adhere to the MIT License when using this extension in Minecraft: Education Edition programming lessons.
 
 用Minecraft Makecode建造塔、金字塔、樓梯以及橋樑
 
@@ -23,3 +22,7 @@ Construisez une tour, une pyramide, des escaliers et un pont en utilisant Minecr
 
 
 ![01](https://github.com/user-attachments/assets/fceadd46-b251-43e9-9eda-7ca8a5b91c7c)
+
+![02](https://github.com/user-attachments/assets/1a8601ed-4f86-42b0-8693-e35833041b86)
+
+![03](https://github.com/user-attachments/assets/747c6046-4284-4e33-9f4d-1dbf4af7024d)
