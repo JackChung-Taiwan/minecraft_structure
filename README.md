@@ -21,8 +21,8 @@ Baue einen Turm, eine Pyramide, Treppen und eine Brücke mit Minecraft MakeCode
 Construisez une tour, une pyramide, des escaliers et un pont en utilisant Minecraft MakeCode
 
 
-![01](https://github.com/user-attachments/assets/fceadd46-b251-43e9-9eda-7ca8a5b91c7c)
-
 ![0003](https://github.com/user-attachments/assets/cb947959-ba31-4890-b3e6-70e874ea8545)
+
+
 
 ![03](https://github.com/user-attachments/assets/747c6046-4284-4e33-9f4d-1dbf4af7024d)
