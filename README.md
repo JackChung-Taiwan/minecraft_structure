@@ -12,6 +12,7 @@ Build a Tower, Pyramid, Stairs, and Bridge using Minecraft MakeCode
 
 1.Copy https://makecode.com/_LCv5X1VcwFrx (Traditional Chinese)
        https://makecode.com/_2s4DTbAkVXMs (English Version)
+
 2.Follow these steps and install the extension
 ![022](https://github.com/user-attachments/assets/a4f526d5-2293-41cf-85da-c8681fb0578a)
 
