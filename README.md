@@ -8,18 +8,6 @@ Please adhere to the MIT License when using this extension in Minecraft: Educati
 
 Build a Tower, Pyramid, Stairs, and Bridge using Minecraft MakeCode
 
-マインクラフト MakeCode を使用して、塔、ピラミッド、階段、および橋を建設する
-
-Minecraft MakeCode를 사용하여 탑, 피라미드, 계단 및 다리를 건설하기
-
-Construye una torre, una pirámide, escaleras y un puente usando Minecraft MakeCode
-
-Baue einen Turm, eine Pyramide, Treppen und eine Brücke mit Minecraft MakeCode
-
-Построй башню, пирамиду, лестницу и мост с помощью Minecraft MakeCode
-
-Construisez une tour, une pyramide, des escaliers et un pont en utilisant Minecraft MakeCode
-
 
 1.Copy https://makecode.com/_LCv5X1VcwFrx
 
