@@ -1,0 +1,44 @@
+{
+    "name": "minecraft-chinese-pixel-art",
+    "displayName": "中文像素字",
+    "version": "0.1.0",
+    "description": "Type Traditional Chinese text and build it as pixel art in Minecraft Education.",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "font-data-0.ts",
+        "font-data-1.ts",
+        "font-data-2.ts",
+        "font-data-3.ts",
+        "font-data-4.ts",
+        "font-data-5.ts",
+        "font-data-6.ts",
+        "font-index.ts",
+        "main.ts",
+        "README.md",
+        "THIRD_PARTY_NOTICES.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "preferredEditor": "tsprj",
+    "palette": [
+        "#000000",
+        "#f9ffff",
+        "#b02e26",
+        "#f38caa",
+        "#f9801d",
+        "#ffd83d",
+        "#169c9d",
+        "#80c71f",
+        "#3c44a9",
+        "#3ab3da",
+        "#c64fbd",
+        "#474f52",
+        "#8932b7",
+        "#9c9d97",
+        "#825432",
+        "#1d1c21"
+    ]
+}

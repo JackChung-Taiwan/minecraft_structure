@@ -1,0 +1,44 @@
+name: Generate Chinese pixel font
+
+on:
+  push:
+    branches:
+      - agent/chinese-pixel-art
+    paths:
+      - tools/generate_font_data.py
+      - .github/workflows/generate-font.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-font:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install Traditional Chinese font and Pillow
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-noto-cjk
+          python3 -m pip install --disable-pip-version-check pillow
+
+      - name: Generate 16x16 glyph data
+        run: python3 tools/generate_font_data.py
+
+      - name: Commit generated source files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add font-data-*.ts
+          if git diff --cached --quiet; then
+            echo "Font data is already current."
+            exit 0
+          fi
+          git commit -m "Generate Chinese pixel font data [skip ci]"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
